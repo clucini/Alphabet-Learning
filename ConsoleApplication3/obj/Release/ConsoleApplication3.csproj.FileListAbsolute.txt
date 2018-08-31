@@ -1,0 +1,6 @@
+C:\Users\Cluci\OneDrive\Documents\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe.config
+C:\Users\Cluci\OneDrive\Documents\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+C:\Users\Cluci\OneDrive\Documents\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+C:\Users\Cluci\OneDrive\Documents\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.exe
+C:\Users\Cluci\OneDrive\Documents\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.pdb
+C:\Users\Cluci\OneDrive\Documents\ConsoleApplication3\ConsoleApplication3\obj\Release\ConsoleApplication3.csprojResolveAssemblyReference.cache
